@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(241, 231, 231);
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+} 
+.titulo{
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#padre{
+    align-self: center;
+    width: 480px;
+
+}
+#div1{
+    margin: 10px;
+    background-color: bisque;
+    align-self: center;
+    width: 490px;}
+    
+    
+
+img{
+    width: 490px;
+}
+p{
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: small;
+    
+}
+#div2{
+    margin: 10px;
+    background-color: bisque;
+    align-self: center;
+    width: 490px;
+}
+#div3{
+    margin: 10px;
+    background-color: bisque;
+    align-self: center;
+    width: 490px;
+}
+
